@@ -1,0 +1,19 @@
+# Input	DiseaseName	DiseaseID	GeneSymbol	GeneID	DiseaseCategories	DiseaseCategories	DirectEvidence	OmimIDs	PubMedIDs
+d044342	Ataxia with vitamin E deficiency	MESH:C535393	APOA1	335	Nervous system disease|Nutrition disorder|Signs and symptoms	Nervous system disease|Nutrition disorder|Signs and symptoms	marker/mechanism		18458655
+d044342	Ataxia with vitamin E deficiency	MESH:C535393	APOB	338	Nervous system disease|Nutrition disorder|Signs and symptoms	Nervous system disease|Nutrition disorder|Signs and symptoms	marker/mechanism		18458655
+d044342	Ataxia with vitamin E deficiency	MESH:C535393	TTPA	7274	Nervous system disease|Nutrition disorder|Signs and symptoms	Nervous system disease|Nutrition disorder|Signs and symptoms	marker/mechanism	277460	10896705|11752462|12470185|15300460|18458655|19566498
+d044342	Deficiency Diseases	MESH:D003677	CCS	9973	Nutrition disorder	Nutrition disorder	marker/mechanism		12514262
+d044342	Deficiency Diseases	MESH:D003677	CP	1356	Nutrition disorder	Nutrition disorder	marker/mechanism		12514262
+d044342	Deficiency Diseases	MESH:D003677	SOD1	6647	Nutrition disorder	Nutrition disorder	marker/mechanism		12514262
+d044342	Familial Hypophosphatemic Rickets	MESH:D053098	CLCN5	1184	Genetic disease (inborn)|Metabolic disease|Musculoskeletal disease|Nutrition disorder|Urogenital disease (female)|Urogenital disease (male)	Genetic disease (inborn)|Metabolic disease|Musculoskeletal disease|Nutrition disorder|Urogenital disease (female)|Urogenital disease (male)	marker/mechanism	300554	
+d044342	Familial Hypophosphatemic Rickets	MESH:D053098	PHEX	5251	Genetic disease (inborn)|Metabolic disease|Musculoskeletal disease|Nutrition disorder|Urogenital disease (female)|Urogenital disease (male)	Genetic disease (inborn)|Metabolic disease|Musculoskeletal disease|Nutrition disorder|Urogenital disease (female)|Urogenital disease (male)	marker/mechanism	307800	11414762|18775977
+d044342	Fetal Nutrition Disorders	MESH:D048070	MAOA	4128	Fetal disease|Nutrition disorder|Pregnancy complication	Fetal disease|Nutrition disorder|Pregnancy complication	marker/mechanism		22340208
+d044342	Folate Malabsorption, Hereditary	MESH:C562799	SLC46A1	113235	Digestive system disease|Metabolic disease|Nutrition disorder	Digestive system disease|Metabolic disease|Nutrition disorder	marker/mechanism	229050	
+d044342	Folic Acid Deficiency	MESH:D005494	DHFR	1719	Nutrition disorder	Nutrition disorder	marker/mechanism		21310277
+d044342	Gamma-cystathionase deficiency	MESH:C535408	CTH	1491	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	marker/mechanism	219500	
+d044342	Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant	MESH:C567296	BCO1	53630	Nutrition disorder	Nutrition disorder	marker/mechanism	115300	
+d044342	Hyperhomocysteinemia	MESH:D020138	CASP1	834	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	marker/mechanism		22647887
+d044342	Hyperhomocysteinemia	MESH:D020138	CBS	875	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	marker/mechanism		17292331|19028542|19204075
+d044342	Hyperhomocysteinemia	MESH:D020138	DES	1674	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	marker/mechanism		20116427
+d044342	Hyperhomocysteinemia	MESH:D020138	GNMT	27232	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	marker/mechanism		16317120
+d044342	Hyperhomocysteinemia	MESH:D020138	MTHFR	4524	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	Genetic disease (inborn)|Metabolic disease|Nutrition disorder	marker/mechanism|therapeutic		10459572|15226090|16317120|16397167|16411416|16575899|17387702|18234410|18551038|19204075|19646848

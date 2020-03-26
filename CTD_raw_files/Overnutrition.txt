@@ -1,0 +1,240 @@
+# Input	DiseaseName	DiseaseID	GeneSymbol	GeneID	DiseaseCategories	DiseaseCategories	DirectEvidence	OmimIDs	PubMedIDs
+d044343	ABDOMINAL OBESITY-METABOLIC SYNDROME 1	OMIM:605552	MTTP	4547	Metabolic disease|Nutrition disorder	Metabolic disease|Nutrition disorder	marker/mechanism	605552	
+d044343	ABDOMINAL OBESITY-METABOLIC SYNDROME 3	OMIM:615812	DYRK1B	9149	Metabolic disease|Nutrition disorder	Metabolic disease|Nutrition disorder	marker/mechanism	615812	
+d044343	ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 2	OMIM:606770	ADIPOQ	9370	Metabolic disease|Nutrition disorder|Signs and symptoms	Metabolic disease|Nutrition disorder|Signs and symptoms	marker/mechanism		11549668
+d044343	ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 2	OMIM:606770	ADIPQTL2	171511	Metabolic disease|Nutrition disorder|Signs and symptoms	Metabolic disease|Nutrition disorder|Signs and symptoms	marker/mechanism		11549668
+d044343	ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 3	OMIM:606771	ADIPOQ	9370	Metabolic disease|Nutrition disorder|Signs and symptoms	Metabolic disease|Nutrition disorder|Signs and symptoms	marker/mechanism		11549668
+d044343	ADIPONECTIN, SERUM LEVEL OF, QUANTITATIVE TRAIT LOCUS 3	OMIM:606771	ADIPQTL3	171512	Metabolic disease|Nutrition disorder|Signs and symptoms	Metabolic disease|Nutrition disorder|Signs and symptoms	marker/mechanism		11549668
+d044343	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 10	OMIM:607514	FFAR4	338557	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	607514	
+d044343	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 12	OMIM:612362	PCSK1	5122	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	612362	
+d044343	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 14	OMIM:612460	FTO	79068	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	612460	
+d044343	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 18	OMIM:615457	MRAP2	112609	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	615457	
+d044343	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 4	OMIM:607447	UCP2	7351	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	607447	
+d044343	BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 9	OMIM:602025	MC3R	4159	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	602025	
+d044343	Borjeson-Forssman-Lehmann syndrome	MESH:C536575	PHF6	84295	Endocrine system disease|Genetic disease (inborn)|Nervous system disease|Nutrition disorder|Pathology (process)|Signs and symptoms	Endocrine system disease|Genetic disease (inborn)|Nervous system disease|Nutrition disorder|Pathology (process)|Signs and symptoms	marker/mechanism	301900	
+d044343	CHOPS SYNDROME	OMIM:616368	AFF4	27125	Cardiovascular disease|Congenital abnormality|Mental disorder|Musculoskeletal disease|Nutrition disorder|Pathology (process)|Respiratory tract disease|Signs and symptoms	Cardiovascular disease|Congenital abnormality|Mental disorder|Musculoskeletal disease|Nutrition disorder|Pathology (process)|Respiratory tract disease|Signs and symptoms	marker/mechanism	616368	
+d044343	Cohen syndrome	MESH:C536438	VPS13B	157680	Congenital abnormality|Eye disease|Mental disorder|Musculoskeletal disease|Nervous system disease|Nutrition disorder|Signs and symptoms	Congenital abnormality|Eye disease|Mental disorder|Musculoskeletal disease|Nervous system disease|Nutrition disorder|Signs and symptoms	marker/mechanism	216550	12730828|15154116|17990063
+d044343	LEPTIN DEFICIENCY OR DYSFUNCTION	OMIM:614962	LEP	3952	Genetic disease (inborn)|Metabolic disease|Nutrition disorder|Signs and symptoms	Genetic disease (inborn)|Metabolic disease|Nutrition disorder|Signs and symptoms	marker/mechanism	614962	
+d044343	LEPTIN RECEPTOR DEFICIENCY	OMIM:614963	LEPR	3953	Genetic disease (inborn)|Metabolic disease|Nutrition disorder|Signs and symptoms	Genetic disease (inborn)|Metabolic disease|Nutrition disorder|Signs and symptoms	marker/mechanism	614963	
+d044343	MEHMO syndrome	MESH:C537451	EIF2S3	1968	Congenital abnormality|Endocrine system disease|Genetic disease (inborn)|Musculoskeletal disease|Nervous system disease|Nutrition disorder|Signs and symptoms	Congenital abnormality|Endocrine system disease|Genetic disease (inborn)|Musculoskeletal disease|Nervous system disease|Nutrition disorder|Signs and symptoms	marker/mechanism	300148	
+d044343	MORBID OBESITY AND SPERMATOGENIC FAILURE	OMIM:615703	CEP19	84984	Nutrition disorder|Signs and symptoms|Urogenital disease (male)	Nutrition disorder|Signs and symptoms|Urogenital disease (male)	marker/mechanism	615703	
+d044343	MORM syndrome	MESH:C536984	INPP5E	56623	Congenital abnormality|Eye disease|Mental disorder|Nervous system disease|Nutrition disorder|Signs and symptoms|Urogenital disease (male)	Congenital abnormality|Eye disease|Mental disorder|Nervous system disease|Nutrition disorder|Signs and symptoms|Urogenital disease (male)	marker/mechanism	610156	
+d044343	Obesity	MESH:D009765	A	50518	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		1473152|25447408|25448685|8146154
+d044343	Obesity	MESH:D009765	ACACB	32	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ACADM	34	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ACHE	43	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	ACLY	47	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ACP5	54	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ACSL1	2180	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ADCY3	109	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29311635
+d044343	Obesity	MESH:D009765	ADH1B	125	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ADIPOQ	9370	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism|therapeutic		10092513|14617771
+d044343	Obesity	MESH:D009765	ADRB1	153	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		12032746
+d044343	Obesity	MESH:D009765	ADRB2	154	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	15687340
+d044343	Obesity	MESH:D009765	ADRB3	155	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	AFF4	27125	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		25730767
+d044343	Obesity	MESH:D009765	AGRP	181	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	AHR	196	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		27020609|30813227
+d044343	Obesity	MESH:D009765	AKAP1	8165	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	AKR1C3	8644	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	AKT1	207	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	ALDH1L1	10840	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ALDH6A1	4329	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ANGPTL4	51129	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		28842503
+d044343	Obesity	MESH:D009765	APCDD1	147495	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		28242765
+d044343	Obesity	MESH:D009765	APOE	348	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	AQP7	364	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16325777
+d044343	Obesity	MESH:D009765	ATPAF1	64756	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	BCHE	590	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism|therapeutic		18452903|23000450|23073171|27163854
+d044343	Obesity	MESH:D009765	CA3	761	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	CARTPT	9607	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	CASP1	834	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		22325453
+d044343	Obesity	MESH:D009765	CCL2	6347	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	CD163	9332	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	CD40	958	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	CD68	968	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	CEBPA	1050	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		28242765
+d044343	Obesity	MESH:D009765	CES1	1066	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	CES1G	12623	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		24597639
+d044343	Obesity	MESH:D009765	CIDEA	1149	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	CNR1	1268	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		18722357
+d044343	Obesity	MESH:D009765	COX7C	1350	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	CPB2	1361	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16959692
+d044343	Obesity	MESH:D009765	CPE	1363	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		15358678|23434795
+d044343	Obesity	MESH:D009765	CRP	1401	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		24042701
+d044343	Obesity	MESH:D009765	CS	1431	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	CTF1	1489	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		21803294
+d044343	Obesity	MESH:D009765	CTSS	1520	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		21156398
+d044343	Obesity	MESH:D009765	CYB5A	1528	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	CYCS	54205	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16317704
+d044343	Obesity	MESH:D009765	CYP1B1	1545	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		27036855
+d044343	Obesity	MESH:D009765	CYP26B1	56603	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	CYP2E1	1571	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	DCXR	51181	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	DDIT3	1649	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		26655953
+d044343	Obesity	MESH:D009765	DPYD	1806	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	ECHS1	1892	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	EFNB1	1947	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		24098442
+d044343	Obesity	MESH:D009765	ENPP1	5167	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	ENTPD6	955	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	EP300	2033	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		26441656
+d044343	Obesity	MESH:D009765	ESR1	2099	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20667977
+d044343	Obesity	MESH:D009765	ETFDH	2110	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	F2	2147	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		22841818
+d044343	Obesity	MESH:D009765	FAAH	2166	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19103437|20716455
+d044343	Obesity	MESH:D009765	FASN	2194	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	FCGR3B	2215	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	FGF21	26291	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		24184811|26797127
+d044343	Obesity	MESH:D009765	FGGY	55277	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29220483
+d044343	Obesity	MESH:D009765	FOXO3	2309	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	FTL	2512	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	FTO	79068	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17496892|19079260|19079261|19151714|19918250|21076408
+d044343	Obesity	MESH:D009765	GAS7	8522	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19270708
+d044343	Obesity	MESH:D009765	GCG	2641	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		20065960
+d044343	Obesity	MESH:D009765	GFPT1	2673	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	GH1	2688	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		8923850
+d044343	Obesity	MESH:D009765	GHRL	51738	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	GLUL	2752	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	GNAS	2778	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17062894
+d044343	Obesity	MESH:D009765	GNB3	2784	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		15961981|16141801
+d044343	Obesity	MESH:D009765	GNPDA2	132789	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19079261
+d044343	Obesity	MESH:D009765	GPX1	2876	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		15184668
+d044343	Obesity	MESH:D009765	GPX3	2878	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11328671|19270708
+d044343	Obesity	MESH:D009765	HADH	3033	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	HK2	3099	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	HMGB2	3148	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	HMOX1	3162	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		18334666|18375438|19171794
+d044343	Obesity	MESH:D009765	HOXB5	3215	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		22484627
+d044343	Obesity	MESH:D009765	HSD11B1	3290	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17628001|21786805
+d044343	Obesity	MESH:D009765	HSPA5	3309	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		26655953
+d044343	Obesity	MESH:D009765	HTR2A	3356	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17097612
+d044343	Obesity	MESH:D009765	HTR2C	3358	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17702092|19142110
+d044343	Obesity	MESH:D009765	ICAM1	3383	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11782876
+d044343	Obesity	MESH:D009765	IDO1	3620	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		27020609
+d044343	Obesity	MESH:D009765	IGF2	3481	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11528401
+d044343	Obesity	MESH:D009765	IGFBP2	3485	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		22537059
+d044343	Obesity	MESH:D009765	IL6	3569	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20141834|24042701
+d044343	Obesity	MESH:D009765	INPP5E	56623	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19668215
+d044343	Obesity	MESH:D009765	INS	3630	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11528401|2777199|29035695|8923850
+d044343	Obesity	MESH:D009765	IRS1	3667	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	ITGAM	3684	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	KCNMA1	3778	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		27605626
+d044343	Obesity	MESH:D009765	KCTD15	79047	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19079261
+d044343	Obesity	MESH:D009765	KITL	17311	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	LACTB	114294	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		18344982
+d044343	Obesity	MESH:D009765	LBP	3929	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23349936
+d044343	Obesity	MESH:D009765	LDLR	3949	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		25554529
+d044343	Obesity	MESH:D009765	LEP	3952	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism|therapeutic		17517446|18515891|19913045|20122948|23839791|24042701|25086370|25551525|25554529|26186301|28698385|9202122|9502777|9826672
+d044343	Obesity	MESH:D009765	LEPR	3953	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17229951|19913045|20567778|22276206|23563609|24263156|25222487|29743445|30689673|3519326
+d044343	Obesity	MESH:D009765	LPL	4023	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		18344982
+d044343	Obesity	MESH:D009765	MC4R	4160	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17143585|18454148|19079260|19079261|19151714|23251400
+d044343	Obesity	MESH:D009765	ME1	4199	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19270708
+d044343	Obesity	MESH:D009765	MIR130A	406919	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		28242765
+d044343	Obesity	MESH:D009765	MIR130B	406920	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		28242765
+d044343	Obesity	MESH:D009765	MIR184	406960	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	MIR21	406991	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23954404
+d044343	Obesity	MESH:D009765	MIR34A	407040	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23834033
+d044343	Obesity	MESH:D009765	MMP9	4318	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		21156398
+d044343	Obesity	MESH:D009765	MMUT	4594	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	MRC1	4360	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29035695
+d044343	Obesity	MESH:D009765	MTCH2	23788	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19079261
+d044343	Obesity	MESH:D009765	NAMPT	10135	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23834033
+d044343	Obesity	MESH:D009765	NEGR1	257194	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19079261
+d044343	Obesity	MESH:D009765	NEIL1	79661	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16446448|21285402
+d044343	Obesity	MESH:D009765	NHLH2	4808	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20808804
+d044343	Obesity	MESH:D009765	NPC1	4864	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19151714
+d044343	Obesity	MESH:D009765	NPY1R	4886	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	NPY5R	4889	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		10849579
+d044343	Obesity	MESH:D009765	NQO1	1728	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17405841
+d044343	Obesity	MESH:D009765	NR0B2	8431	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	NR1I2	8856	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20869355
+d044343	Obesity	MESH:D009765	NR1I3	9970	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20869355
+d044343	Obesity	MESH:D009765	NTRK2	4915	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		15494731
+d044343	Obesity	MESH:D009765	OGG1	4968	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29709520
+d044343	Obesity	MESH:D009765	PACS1	55690	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23563609
+d044343	Obesity	MESH:D009765	PARP1	142	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20561897
+d044343	Obesity	MESH:D009765	PCK1	5105	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	PCSK1	5122	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		18604207
+d044343	Obesity	MESH:D009765	PEX11A	8800	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		30585412
+d044343	Obesity	MESH:D009765	PFKFB3	5209	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	PLIN1	5346	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		15001633
+d044343	Obesity	MESH:D009765	PMCH	5367	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		12355323
+d044343	Obesity	MESH:D009765	POMC	5443	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	16289378|19153526
+d044343	Obesity	MESH:D009765	PPARA	5465	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11089532|30738174
+d044343	Obesity	MESH:D009765	PPARD	5467	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		16168052|20176998
+d044343	Obesity	MESH:D009765	PPARG	5468	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	11089532|28242765
+d044343	Obesity	MESH:D009765	PPARGC1B	133522	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		30738174
+d044343	Obesity	MESH:D009765	PPM1L	151742	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		18344982
+d044343	Obesity	MESH:D009765	PRKAR1A	5573	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29367455
+d044343	Obesity	MESH:D009765	PRKAR2B	5577	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	PRKCH	5583	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23563609
+d044343	Obesity	MESH:D009765	PTGS2	5743	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		21156398
+d044343	Obesity	MESH:D009765	PTPN1	5770	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		10744717|20075852
+d044343	Obesity	MESH:D009765	PYY	5697	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16368708
+d044343	Obesity	MESH:D009765	RAB21	23011	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	RAI1	10743	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		15459175|19116176
+d044343	Obesity	MESH:D009765	RAPGEF3	10411	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	RMST	196475	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23563609
+d044343	Obesity	MESH:D009765	SAT1	6303	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	SCD1	20249	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	SDC3	9672	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	SERPINE1	5054	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23819014
+d044343	Obesity	MESH:D009765	SH2B1	25970	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19079261
+d044343	Obesity	MESH:D009765	SIRT1	23411	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		24184811
+d044343	Obesity	MESH:D009765	SIRT3	23410	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		23956348
+d044343	Obesity	MESH:D009765	SLC16A7	9194	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	SLC22A1	6580	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20956498
+d044343	Obesity	MESH:D009765	SLC22A2	6582	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		27401566
+d044343	Obesity	MESH:D009765	SLC22A3	6581	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		27401566
+d044343	Obesity	MESH:D009765	SOD1	6647	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		24042701
+d044343	Obesity	MESH:D009765	SOD2	6648	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16317704|23956348|30738174
+d044343	Obesity	MESH:D009765	SREBF1	6720	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		10900012
+d044343	Obesity	MESH:D009765	STS	412	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		24497646
+d044343	Obesity	MESH:D009765	SUCLA2	8803	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	SUCLG2	8801	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	TBC1D1	23216	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		16893906|18325908|18931681
+d044343	Obesity	MESH:D009765	TF	7018	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	TFRC	7037	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17062801|20882379
+d044343	Obesity	MESH:D009765	TMEM18	129787	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		19079261
+d044343	Obesity	MESH:D009765	TNF	7124	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11328671|20141834|29035695|9502777
+d044343	Obesity	MESH:D009765	TNFRSF1B	7133	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11782876
+d044343	Obesity	MESH:D009765	TRPV1	7442	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		17347480
+d044343	Obesity	MESH:D009765	UCP1	7350	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	therapeutic		15592485
+d044343	Obesity	MESH:D009765	UCP2	7351	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		11381268
+d044343	Obesity	MESH:D009765	UCP3	7352	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism	601665	
+d044343	Obesity	MESH:D009765	UQCRC2	7385	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20882379
+d044343	Obesity	MESH:D009765	VLDLR	7436	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		20975297
+d044343	Obesity	MESH:D009765	WNT3A	89780	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		28242765
+d044343	Obesity	MESH:D009765	ZBTB7B	51043	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	ZFHX3	463	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	ZFR2	23217	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity	MESH:D009765	ZNF169	169841	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity, Abdominal	MESH:D056128	HSD11B1	3290	Nutrition disorder	Nutrition disorder	marker/mechanism		15199296
+d044343	Obesity, Hyperphagia, and Developmental Delay	MESH:C563938	NTRK2	4915	Mental disorder|Nutrition disorder|Signs and symptoms	Mental disorder|Nutrition disorder|Signs and symptoms	marker/mechanism	613886	
+d044343	Obesity, Morbid	MESH:D009767	ADCY3	109	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29311637
+d044343	Obesity, Morbid	MESH:D009767	BDNF	627	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		21708048
+d044343	Obesity, Morbid	MESH:D009767	KCNMA1	3778	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		21708048
+d044343	Obesity, Morbid	MESH:D009767	KSR2	283455	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807
+d044343	Obesity, Morbid	MESH:D009767	LEP	3952	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism|therapeutic		15070752|9500540
+d044343	Obesity, Morbid	MESH:D009767	LEPR	3953	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		9537324
+d044343	Obesity, Morbid	MESH:D009767	MC4R	4160	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		29273807|29311635
+d044343	Pediatric Obesity	MESH:D063766	APOA1	335	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		25137265
+d044343	Pediatric Obesity	MESH:D063766	APOA5	116519	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		25137265
+d044343	Pediatric Obesity	MESH:D063766	CETP	1071	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		25137265
+d044343	Pediatric Obesity	MESH:D063766	FTO	79068	Nutrition disorder|Signs and symptoms	Nutrition disorder|Signs and symptoms	marker/mechanism		25137265
+d044343	Prader-Willi Syndrome	MESH:D011218	HERC2	8924	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	IPW	3653	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	MAGEL2	54551	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	24076603
+d044343	Prader-Willi Syndrome	MESH:D011218	MKRN3	7681	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	MKRN3-AS1	10108	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	NDN	4692	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	NPAP1	23742	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	PWAR1	145624	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	PWRN1	791114	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	SNORD115-1	338433	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	SNORD116-1	100033413	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Prader-Willi Syndrome	MESH:D011218	SNRPN	6638	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	Congenital abnormality|Genetic disease (inborn)|Nervous system disease|Nutrition disorder	marker/mechanism	176270	
+d044343	Proopiomelanocortin Deficiency	MESH:C565726	POMC	5443	Endocrine system disease|Nutrition disorder|Signs and symptoms	Endocrine system disease|Nutrition disorder|Signs and symptoms	marker/mechanism	609734	
+d044343	Proprotein Convertase 1 3 Deficiency	MESH:C563423	PCSK1	5122	Endocrine system disease|Nutrition disorder|Signs and symptoms	Endocrine system disease|Nutrition disorder|Signs and symptoms	marker/mechanism	600955	
+d044343	RETINAL DYSTROPHY AND OBESITY	OMIM:616188	TUB	7275	Eye disease|Nutrition disorder|Signs and symptoms	Eye disease|Nutrition disorder|Signs and symptoms	marker/mechanism	616188	
+d044343	Wilson-Turner X-linked mental retardation syndrome	MESH:C536708	LAS1L	81887	Genetic disease (inborn)|Nervous system disease|Nutrition disorder|Signs and symptoms|Skin disease	Genetic disease (inborn)|Nervous system disease|Nutrition disorder|Signs and symptoms|Skin disease	marker/mechanism	309585	

@@ -1,0 +1,16 @@
+# Input	DiseaseName	DiseaseID	GeneSymbol	GeneID	DiseaseCategories	DiseaseCategories	DirectEvidence	OmimIDs	PubMedIDs
+d008107	Adenoma, Liver Cell	MESH:D018248	A2M	2	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		15509519
+d008107	Adenoma, Liver Cell	MESH:D018248	CDKN1B	1027	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		17620307
+d008107	Adenoma, Liver Cell	MESH:D018248	CTNNB1	1499	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		21147764
+d008107	Adenoma, Liver Cell	MESH:D018248	CYP3A23/3A1	25642	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		10959800
+d008107	Adenoma, Liver Cell	MESH:D018248	HRAS	3265	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		8200073
+d008107	Adenoma, Liver Cell	MESH:D018248	NR1I3	9970	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		25656644
+d008107	Adenoma, Liver Cell	MESH:D018248	PTEN	5728	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		27022031
+d008107	Adenoma, Liver Cell	MESH:D018248	TMEM70	54968	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		27914986
+d008107	Adenoma, Liver Cell	MESH:D018248	UBE2E2	7325	Cancer|Digestive system disease	Cancer|Digestive system disease	marker/mechanism		27914986
+d008107	Alagille Syndrome	MESH:D016738	JAG1	182	Cardiovascular disease|Congenital abnormality|Digestive system disease|Genetic disease (inborn)	Cardiovascular disease|Congenital abnormality|Digestive system disease|Genetic disease (inborn)	marker/mechanism	118450	21532573|9207787|9207788
+d008107	Alagille Syndrome	MESH:D016738	NOTCH2	4853	Cardiovascular disease|Congenital abnormality|Digestive system disease|Genetic disease (inborn)	Cardiovascular disease|Congenital abnormality|Digestive system disease|Genetic disease (inborn)	marker/mechanism	610205	
+d008107	alpha 1-Antitrypsin Deficiency	MESH:D019896	SERPINA1	5265	Digestive system disease|Genetic disease (inborn)|Pathology (process)|Respiratory tract disease	Digestive system disease|Genetic disease (inborn)|Pathology (process)|Respiratory tract disease	marker/mechanism	613490	17559149|3485249
+d008107	Bile acid synthesis defect, congenital, 4	MESH:C535444	AMACR	23600	Digestive system disease|Genetic disease (inborn)|Metabolic disease	Digestive system disease|Genetic disease (inborn)|Metabolic disease	marker/mechanism	214950	
+d008107	Budd-Chiari Syndrome	MESH:D006502	F5	2153	Cardiovascular disease|Digestive system disease	Cardiovascular disease|Digestive system disease	marker/mechanism	600880	
+d008107	Budd-Chiari Syndrome	MESH:D006502	JAK2	3717	Cardiovascular disease|Digestive system disease	Cardiovascular disease|Digestive system disease	marker/mechanism	600880	16762626|19293426

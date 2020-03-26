@@ -1,0 +1,30 @@
+HGNC ID	Approved symbol	Approved name	Status	Previous symbols	Synonyms	Chromosome	Accession numbers	RefSeq IDs
+HGNC:5	A1BG	alpha-1-B glycoprotein	Approved			19q13.43		NM_130786
+HGNC:37133	A1BG-AS1	A1BG antisense RNA 1	Approved	NCRNA00181, A1BGAS, A1BG-AS	FLJ23569	19q13.43	BC040926	NR_015380
+HGNC:24086	A1CF	APOBEC1 complementation factor	Approved		ACF, ASP, ACF64, ACF65, APOBEC1CF	10q11.23	AF271790	NM_014576
+HGNC:6	A1S9T	symbol withdrawn, see [HGNC:12469](/data/gene-symbol-report/#!/hgnc_id/HGNC:12469)	Symbol Withdrawn					
+HGNC:7	A2M	alpha-2-macroglobulin	Approved		FWP007, S863-7, CPAMD5	12p13.31	BX647329, X68728, M11313	NM_000014
+HGNC:27057	A2M-AS1	A2M antisense RNA 1	Approved			12p13.31		NR_026971
+HGNC:23336	A2ML1	alpha-2-macroglobulin like 1	Approved	CPAMD9	FLJ25179, p170	12p13.31	AK057908	NM_144670
+HGNC:41022	A2ML1-AS1	A2ML1 antisense RNA 1	Approved			12p13.31		
+HGNC:41523	A2ML1-AS2	A2ML1 antisense RNA 2	Approved			12p13.31		
+HGNC:8	A2MP1	alpha-2-macroglobulin pseudogene 1	Approved	A2MP		12p13.31	M24415	NG_001067
+HGNC:9	A2MR	symbol withdrawn, see [HGNC:6692](/data/gene-symbol-report/#!/hgnc_id/HGNC:6692)	Symbol Withdrawn					
+HGNC:10	A2MRAP	symbol withdrawn, see [HGNC:6701](/data/gene-symbol-report/#!/hgnc_id/HGNC:6701)	Symbol Withdrawn					
+HGNC:30005	A3GALT2	alpha 1,3-galactosyltransferase 2	Approved	A3GALT2P	IGBS3S, IGB3S	1p35.1		NM_001080438
+HGNC:18149	A4GALT	alpha 1,4-galactosyltransferase (P blood group)	Approved	P1	A14GALT, Gb3S, P(k)	22q13.2		NM_017436
+HGNC:17968	A4GNT	alpha-1,4-N-acetylglucosaminyltransferase	Approved		alpha4GnT	3q22.3	AF141315	NM_016161
+HGNC:1	A12M1	adenovirus-12 chromosome modification site 1C	Entry Withdrawn					
+HGNC:2	A12M2	adenovirus-12 chromosome modification site 1A	Entry Withdrawn					
+HGNC:3	A12M3	adenovirus-12 chromosome modification site 1B	Entry Withdrawn					
+HGNC:4	A12M4	adenovirus-12 chromosome modification site 17	Entry Withdrawn					
+HGNC:11	AA	symbol withdrawn, see [HGNC:11714](/data/gene-symbol-report/#!/hgnc_id/HGNC:11714)	Symbol Withdrawn	AA		11p15		
+HGNC:16834	NREP	neuronal regeneration related protein	Approved	C5orf13	P311, D4S114, PRO1873, PTZ17, SEZ17	5q22.1	AF119859	NM_004772
+HGNC:40780	NREP-AS1	NREP antisense RNA 1	Approved			5q22.1		
+HGNC:7996	NRF1	nuclear respiratory factor 1	Approved		EWG, ALPHA-PAL	7q32.2	L22454	NM_001040110
+HGNC:7997	NRG1	neuregulin 1	Approved	HGL, NRG1-IT2	HRG, NDF, GGF	8p12	L12261	
+HGNC:43633	NRG1-IT1	NRG1 intronic transcript 1	Approved			8p12	BC037250	
+HGNC:43634	NRG1-IT2	symbol withdrawn, see [HGNC:7997](/data/gene-symbol-report/#!/hgnc_id/HGNC:7997)	Symbol Withdrawn			8p12		
+HGNC:51695	ZYXP1	zyxin pseudogene 1	Approved			8q24.23		
+HGNC:29027	ZZEF1	zinc finger ZZ-type and EF-hand domain containing 1	Approved		KIAA0399, ZZZ4, FLJ10821	17p13.2	BC035319	NM_015113
+HGNC:24523	ZZZ3	zinc finger ZZ-type containing 3	Approved		DKFZP564I052, ATAC1	1p31.1	AL080063	NM_015534
